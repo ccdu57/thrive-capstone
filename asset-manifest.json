@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/thrive-capstone/static/css/main.a6c49b6d.chunk.css",
+    "main.js": "/thrive-capstone/static/js/main.195b50ab.chunk.js",
+    "main.js.map": "/thrive-capstone/static/js/main.195b50ab.chunk.js.map",
+    "runtime-main.js": "/thrive-capstone/static/js/runtime-main.0a9b578a.js",
+    "runtime-main.js.map": "/thrive-capstone/static/js/runtime-main.0a9b578a.js.map",
+    "static/js/2.842ce10d.chunk.js": "/thrive-capstone/static/js/2.842ce10d.chunk.js",
+    "static/js/2.842ce10d.chunk.js.map": "/thrive-capstone/static/js/2.842ce10d.chunk.js.map",
+    "index.html": "/thrive-capstone/index.html",
+    "precache-manifest.26c34abfcda37186e3c8bb6fee78e92f.js": "/thrive-capstone/precache-manifest.26c34abfcda37186e3c8bb6fee78e92f.js",
+    "service-worker.js": "/thrive-capstone/service-worker.js",
+    "static/css/main.a6c49b6d.chunk.css.map": "/thrive-capstone/static/css/main.a6c49b6d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a9b578a.js",
+    "static/js/2.842ce10d.chunk.js",
+    "static/css/main.a6c49b6d.chunk.css",
+    "static/js/main.195b50ab.chunk.js"
+  ]
+}
